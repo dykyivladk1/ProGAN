@@ -42,11 +42,12 @@ After downloading, place the dataset in an appropriate directory within the your
     ```
     python scripts/trainer.py --train_dir <train_path>
     ```
-4. ##Visualisations##
+4. **Visualisations**
 
-    You can use Netron app for opening the .onnx files stored in visualisations folder. I used them for understanding the model structure.
+    You can use Netron app for opening the **.onnx** files stored in visualisations folder. I used them for understanding the model structure.
 
-5. ##Note##
+5. **Note**
    
    If you want to see my documentation for this model you can visit the following link on Notion:
+
    [Documentation](https://dykyivladk.notion.site/ProgressiveGAN-cff025d80a794ba7811ad632b36c9600?pvs=4)
